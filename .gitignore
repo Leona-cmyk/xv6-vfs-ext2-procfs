@@ -1,0 +1,11 @@
+fs.img
+*.o
+*.d
+*.asm
+*.sym
+kernel/kernel
+user/_*
+mkfs/mkfs
+.gdbinit
+.vscode/
+.idea/
