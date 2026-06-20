@@ -9,9 +9,6 @@
 - **EXT2 文件系统**：支持挂载 Linux 格式化的 EXT2 磁盘镜像
 - **Procfs 虚拟文件系统**：动态展示内核和进程状态信息
 
-## 演示视频
-
-📺 **链接: https://pan.baidu.com/s/1oBC3WlkJ8JXethb6i6QoQw?pwd=1wik 提取码: 1wik **
 
 > 视频内容：系统启动、EXT2 挂载、Procfs 挂载、文件操作、测试验证
 
